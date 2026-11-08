@@ -10,7 +10,7 @@ Play your local files or stream from YouTube Music, watch a real-time spectrum a
 
 \---
 
-## Features
+Features
 
 * **Y2K look and feel**: Windows XP "Luna" styling, a glossy blue header, bevelled buttons, a zebra-striped playlist and an LED-style spectrum analyzer.
 * **Local files**: play `mp3`, `flac`, `ogg`, `opus` and `wav`. Tags (artist, title, album, year, track number) and cover art (embedded or `cover.jpg` / `folder.jpg` next to the files) are read automatically.
