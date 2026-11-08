@@ -1,10 +1,11 @@
-<img width="1002" height="726" alt="Captura de tela 2026-11-08 140611" src="https://github.com/user-attachments/assets/8067ed2b-cc4f-4732-a21e-df19eff86e4c" />
-<img width="998" height="727" alt="Captura de tela 2026-11-08 141808" src="https://github.com/user-attachments/assets/ad1f5a93-5c1f-4353-a7d8-dc4b3fdecb4d" />
+
 # FunkyPlayer2000
 
 **A desktop music player with an early-2000s soul.**
 Play your local files or stream from YouTube Music, watch a real-time spectrum analyzer, and sing along with word-by-word synced lyrics.
 
+<img width="1002" height="726" alt="Captura de tela 2026-11-08 140611" src="https://github.com/user-attachments/assets/8067ed2b-cc4f-4732-a21e-df19eff86e4c" />
+<img width="998" height="727" alt="Captura de tela 2026-11-08 141808" src="https://github.com/user-attachments/assets/ad1f5a93-5c1f-4353-a7d8-dc4b3fdecb4d" />
 </div>
 
 <!-- Add a screenshot to docs/screenshot.png and uncomment the line below:
